@@ -1,10 +1,10 @@
-# My First GitHub Project
+My First GitHub Project
 
 👋 Hi, I'm a student learning coding.
 
-## 🚀 Skills I'm Learning
+ 🚀 Skills I'm Learning
 - Python
 - HTML & CSS
 
-## 🎯 Goal
+ 🎯 Goal
 To become a software developer.
