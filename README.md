@@ -1,10 +1,7 @@
-My First GitHub Project
-
-👋 Hi, I'm a student learning coding.
-
- 🚀 Skills I'm Learning
-- Python
-- HTML & CSS
-
- 🎯 Goal
-To become a software developer.
+My First GitHub Project - calculator.
+It is a simple java calculator app.
+FEATURES:
+addition
+subtraction
+multiplication
+divition
